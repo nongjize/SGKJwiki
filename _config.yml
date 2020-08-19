@@ -34,6 +34,7 @@ plugins:
 collections:
   authors:
     output: true
+    permalink: /:collection/:path/
 defaults:
   - scope:
       path: ""
