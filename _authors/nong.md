@@ -1,4 +1,4 @@
 ---
-short_name: 侬工
-name: 侬工
+short_name: nong
+name: nong
 ---
