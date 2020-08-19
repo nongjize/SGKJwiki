@@ -33,7 +33,6 @@ plugins:
   - jekyll-feed
 collections:
   authors:
-    permalink: "/:collection/:author/" 
     output: true
 defaults:
   - scope:
