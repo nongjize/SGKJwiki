@@ -1,4 +1,4 @@
 ---
-short_name: 贺工
-name: 贺工
+short_name: he
+name: he
 ---
