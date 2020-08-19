@@ -1,6 +1,6 @@
 ---
 layout: post
-author: 侬工
+author: nong
 ---
 ###摘抄
 路径：/git使用问题处理汇总
