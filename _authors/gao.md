@@ -1,4 +1,4 @@
 ---
-short_name: 高工
-name: 高工
+short_name: gao
+name: gao
 ---
