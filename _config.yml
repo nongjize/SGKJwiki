@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 collections:
   authors:
-    output: true
+#    output: true
 defaults:
   - scope:
       path: ""
